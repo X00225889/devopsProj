@@ -1,4 +1,4 @@
 #!/bin/bash
-echo 2
+echo "Two(2)"
 ./count3.sh
 
